@@ -3,4 +3,7 @@
 
 ### assignment01: heuristic evaluation of Alaska
 
+---
+
 purpose of the assignment --- 3-5 sentences what you want to show via this assignment. 
+
