@@ -1,7 +1,7 @@
-# (Title of your project)
-## (your name, course information)
+# Alaska Government Site
+## Lance Dagdagan, DH 110 F2021
 
-### assignment01: heuristic evaluation of Alaska
+### Assignment01: Heuristic Evaluation of Alaska
 
 ---
 
