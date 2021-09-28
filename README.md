@@ -2,8 +2,6 @@
 
 ## DH110 - Lance Dagdagan
 
-This repository is for the DH110 User Experience and Design course at UCLA.
-
 ### H3: plain text size but bold
 
 #### H4
@@ -11,3 +9,5 @@ This repository is for the DH110 User Experience and Design course at UCLA.
 ##### H5: caption
 
 ###### H6: notes
+
+This repository is for the DH110 User Experience and Design course at UCLA.
