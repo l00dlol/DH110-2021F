@@ -5,7 +5,7 @@
 
 ---
 
-purpose of the assignment --- 3-5 sentences what you want to show via this assignment. 
+purpose of the assignment - 3-5 sentences what you want to show via this assignment. 
 
 http://alaska.gov/
 
